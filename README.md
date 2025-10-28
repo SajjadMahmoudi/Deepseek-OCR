@@ -41,7 +41,7 @@ BOT_TOKEN = "your_bot_token_here"
 
 1. **Start the bot**
 ```bash
-python test.py
+python main.py
 ```
 
 2. **Interact with the bot on Telegram**
