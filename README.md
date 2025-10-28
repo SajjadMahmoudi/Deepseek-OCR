@@ -145,7 +145,7 @@ This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
-- [DeepSeek AI](https://huggingface.co/deepseek-ai) for the OCR model
+- [DeepSeek AI](https://huggingface.co/deepseek-ai/DeepSeek-OCR) for the OCR model
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) for the Telegram bot framework
 - [PyMuPDF](https://pymupdf.readthedocs.io/) for PDF processing
 
